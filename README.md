@@ -1,2 +1,5 @@
 # hello-world
-sample repository
+
+Hi Humans!
+
+Sample demo for GitHub and jenkins deployement.
