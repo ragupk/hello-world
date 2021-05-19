@@ -11,3 +11,6 @@ USER2
 Testing1
 
 Testing 2
+
+
+TEST GIT BASH
